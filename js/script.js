@@ -90,3 +90,10 @@ function spin(len = 12) {
 document.querySelector("#c").addEventListener("click", () => {
     spin(numSlices);
 });
+
+
+// TODO: Reach-Me!
+// ESHQUVVATOV-ASLIDDIN
+// YOUTUBE-"https://www.youtube.com/channel/UCzltTYR0H9WNuz4DA8SRNUw"
+// GITHUB-"https://github.com/EshquvvatovAsliddin"
+
